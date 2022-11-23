@@ -8,7 +8,6 @@ import requests
 
 DINGTALK_TOKEN = os.getenv('DINGTALK_TOKEN')
 
-
 def send_text(text, token):
     headers = {'Content-Type': 'application/json'}
     data = {"msgtype": "text", "text": {"content": text},
