@@ -1,0 +1,17 @@
+{
+    "RSAS 6.0 系统": {
+        "url": "http://update.nsfocus.com/update/listRsasDetail/v/rsassys",
+        "version": "",
+        "uptime": ""
+    },
+    "RSAS 6.0 系统插件": {
+        "url": "http://update.nsfocus.com/update/listRsasDetail/v/vulsys",
+        "version": "",
+        "uptime": ""
+    },
+    "RSAS 6.0 Web插件": {
+        "url": "http://update.nsfocus.com/update/listRsasDetail/v/vulweb",
+        "version": "",
+        "uptime": ""
+    }
+}
