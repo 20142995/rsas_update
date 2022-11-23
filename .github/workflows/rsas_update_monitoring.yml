@@ -4,8 +4,6 @@
 name: rsas update monitoring
 
 on:
-  release:
-    types: [published]
   schedule:
     - cron: '0 * * * *'
 
