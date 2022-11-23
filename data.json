@@ -1,8 +1,8 @@
 {
     "RSAS 6.0 系统": {
         "url": "http://update.nsfocus.com/update/listRsasDetail/v/rsassys",
-        "version": "",
-        "uptime": ""
+        "version": "1",
+        "uptime": "1"
     },
     "RSAS 6.0 系统插件": {
         "url": "http://update.nsfocus.com/update/listRsasDetail/v/vulsys",
