@@ -6,8 +6,8 @@
     },
     "RSAS 6.0 系统插件": {
         "url": "http://update.nsfocus.com/update/listRsasDetail/v/vulsys",
-        "version": "V6.0R02F01.2910",
-        "uptime": "2022-12-30 18:18:01"
+        "version": "V6.0R02F01.3000",
+        "uptime": "2023-01-03 10:54:37"
     },
     "RSAS 6.0 Web插件": {
         "url": "http://update.nsfocus.com/update/listRsasDetail/v/vulweb",
